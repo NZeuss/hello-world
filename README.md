@@ -5,7 +5,7 @@ I decided to write a short description
 The code takes your name and your favourite colour and returns them together. 
 After this the program with generate a random number and outputs it for the user to see.
 
-## Instalation
+## Installation
 In order to run the files download them to a place where you can find them easily. 
 After this open your terminal and run the files via command line.
 
